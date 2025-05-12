@@ -1,5 +1,5 @@
-Oi, Gente. 
-Eu sou o João Paulo
+Fala, Galera. 
+Meu nome é João Paulo
 
 - Atualmente, estou trabalhando no atendimento ao público
 - Estou estudando ADS no CEUB de noite
